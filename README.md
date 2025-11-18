@@ -71,7 +71,7 @@ My background includes experience with **network security, system administration
 
 ## 💻 Professional Experience
 
-**IT Intern | Anacapa Microproducts Inc | 10/2025 – Present**  
+**IT Intern | 10/2025 – Present**  
 Supporting a federal-focused IT solutions provider with exposure to government compliance, cybersecurity, and enterprise infrastructure.  
 - Configure Dell, HP, and Cisco servers and networking hardware using vendor portals  
 - Collaborate with both sales and engineering teams to design secure, cost-efficient IT solutions  
